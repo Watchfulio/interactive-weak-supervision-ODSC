@@ -1,0 +1,16 @@
+name: interactive-weak-supervision 
+channels:
+- conda-forge
+- defaults
+- anaconda
+dependencies:
+- python>=3.8
+- jupyter
+- jupyterlab>=3.0
+- pip
+- seaborn
+- matplotlib
+- numpy
+- pandas
+- scikit-learn
+- ipykernel
