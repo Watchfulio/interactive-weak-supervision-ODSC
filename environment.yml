@@ -11,6 +11,7 @@ dependencies:
 - seaborn
 - matplotlib
 - numpy
+- nltk
 - pandas
 - scikit-learn
 - ipykernel
