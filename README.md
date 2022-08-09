@@ -1,2 +1,2 @@
 # Interactive Weak Supervision 
-Interactivee Weak Supervision for NLP tasks - talk for ODSC Europe 2022
+Interactivee Weak Supervision for NLP tasks - talk for ODSC 2022
